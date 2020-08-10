@@ -22,7 +22,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Safiya Noble, _Missed Connections: What Search Engines Say About Women_ (Canvas) (4 pages)
 
 **Optional**
-- Julian Dibbell, _A Rape in Cyberspace_, https://www.villagevoice.com/2005/10/18/a-rape-in-cyberspace/
+- Julian Dibbell, [_A Rape in Cyberspace_](https://www.villagevoice.com/2005/10/18/a-rape-in-cyberspace/)
 - Jennifer L. Mnookin, [_Virtual(Ly) Law: The Emergence of Law in LambdaMOO_](https://doi-org.srv-proxy1.library.tamu.edu/10.1111/j.1083-6101.1996.tb00185.x),  2 Journal of Computer-Mediated Communication (1996).
 - Frank Easterbrook, _The Law of the Horse_ (GIL 11)
 - Lawrence Lessig, _What Cyberlaw Might Teach_ (503-513) (Canvas)
@@ -106,7 +106,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - _Net Neutrality: Last Week Tonight with John Oliver_ (HBO), https://www.youtube.com/watch?v=fpbOEoRrHyU
 - Annemarie Bridy, _Remediating Social Media: A Layer-Conscious Approach_, pp. 194-213 (Canvas)
 
-### Class 9 - September 15, 2020
+## Class 9 - September 15, 2020
 ### Elections, disinformation, and political ads
 #### Readings
 - _Washington Post v. McManus_ (4th Cir. ) (Canvas)
