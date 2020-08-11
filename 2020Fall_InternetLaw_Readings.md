@@ -1,6 +1,6 @@
 # Internet Law - Fall 2020
 ## About the readings
-A note on the readings: We'll encounter a wide range of legal documents, including not just judicial opinions but also domestic and foreign statutes, administrative rulings, and legal briefs. We will also be reading book excerpts, as well as legal and social science scholarship. There is a massive body of legal, social, political, and economic research concerning the Internet; this course aims to give you a taste of how perspectives from non-lawyers may also influence debates within Internet law itself.
+A note on the readings: We'll encounter a wide range of legal documents, including not just judicial opinions but also domestic and foreign statutes, administrative rulings, briefs, and policy proposals. We will also be reading book excerpts, as well as legal and social science scholarship. There is a massive body of legal, social, political, and economic research concerning the Internet, and Internet Law is always interdisciplinary to some extent. Perspectives from non-lawyers frequently also influence debates within Internet law itself.
 ### Required materials
    1. James Grimmelmann, _Internet Cases & Problems_ (10th ed. 2020) ("GIL")
    2. All other readings will be found on Canvas or at the links provided.
@@ -113,8 +113,8 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Honest ADS Act (Canvas)
 - Daniel Kreiss & Shannon C. Mcgregor, _The “Arbiters of What Our Voters See”: Facebook and Google’s Struggle with Policy, Process, and Enforcement around Political Advertising_, Political Communication (2019) (Canvas)
 - Deen Freelon et al., _Black Trolls Matter: Racial and Ideological Asymmetries in Social Media Disinformation_ (Canvas)
-- Scott Shane & Vindu Goel, _Fake Russian Facebook Accounts Bought $100,000 in Political Ads_, The New York Times, Sept. 6, 2017, https://www.nytimes.com/2017/09/06/technology/facebook-russian-political-ads.html
-- Niam Yaraghi, _Twitter’s ban on political advertisements hurts our democracy_, Brookings (Jan. 8, 2020), https://www.brookings.edu/blog/techtank/2020/01/08/twitters-ban-on-political-advertisements-hurts-our-democracy/
+- Scott Shane & Vindu Goel, [_Fake Russian Facebook Accounts Bought $100,000 in Political Ads_](https://www.nytimes.com/2017/09/06/technology/facebook-russian-political-ads.html), N.Y. Times (Sept. 6, 2017)
+- Niam Yaraghi, [_Twitter’s ban on political advertisements hurts our democracy_](https://www.brookings.edu/blog/techtank/2020/01/08/twitters-ban-on-political-advertisements-hurts-our-democracy/), Brookings (Jan. 8, 2020)
 
 #### Optional:
 - The Great Hack (Netflix)
@@ -170,7 +170,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Keri Blakinger, [Newsrooms Rethink a Crime Reporting Staple: The Mugshot](https://www.themarshallproject.org/2020/02/11/newsrooms-rethink-a-crime-reporting-staple-the-mugshot), The Marshall Project (Feb. 11, 2020).
 - Sarah Esther Lageson, [Online Criminal Records Trap Americans in a Purgatory of Digital Punishment](https://slate.com/technology/2020/06/criminal-justice-records-online-digital-punishment.html), Slate Magazine (Jun. 24, 2020).
 
-### Class 15 - October 6, 2020
+## Class 15 - October 6, 2020
 ### Consumer Privacy
 - Alessandro Acquisti, Laura Brandimarte & George Loewenstein, _Privacy and Human Behavior in the Age of Information_, 347 Science 509 (2015) (Canvas)
 - Amazon privacy notice (Canvas)
@@ -178,7 +178,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Eichenberger v. ESPN (GIL 292-296)
 - ACA Connects v. Frey (Canvas)
 
-### Class 16 - October 8, 2020
+## Class 16 - October 8, 2020
 ### The FTC's Privacy and Security Regulation
   - Daniel J. Solove & Woodrow Hartzog, _The FTC and the New
 Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
@@ -187,7 +187,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
   - United States v. Facebook, Complaint (Canvas)
   - In re Snapchat (GIL 304-310)
 
-### Class 17 - October 13, 2020
+## Class 17 - October 13, 2020
 ### The GDPR and the CCPA
 - GDPR materials (319-332)
 - Google v. CNIL (Canvas)
@@ -223,7 +223,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 #### Optional
 - The Cleaners (documentary film)
 
-## Class 21 - October 24, 2020
+## Class 21 - October 27, 2020
 
 ## Class 22 - October 29, 2020
 ### Platforms and the Public Sphere
@@ -237,6 +237,8 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 ### Labor and Employment
 - Uber v. Heller (Canvas)
 - AB5 (Canvas)
+- Uber, _Working Together_ (Canvas)
+- _What would Uber and Lyft owe to the State Unemployment Insurance Fund?_ (Canvas)
 - [Did Uber Just Enable Discrimination by Destination?](https://www.bloomberg.com/news/articles/2019-12-11/the-discrimination-risk-in-uber-s-new-driver-rule), Bloomberg.com, Dec. 11, 2019.
 - Kate Conger & Noam Scheiber, [The Great Google Revolt](https://www.nytimes.com/interactive/2020/02/18/magazine/google-revolt.html), The New York Times, Feb. 19, 2020.
 - Ehling v. Monmouth-Ocean Hospital Service Corp. (GIL 261-265)
