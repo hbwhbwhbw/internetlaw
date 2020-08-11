@@ -16,7 +16,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - sign up for a memo week
 
 #### Readings
-- Ethan Zuckerman & Andrew McLaughlin, Introduction to Internet Architecture and Institutions, https://cyber.harvard.edu/digitaldemocracy/internetarchitecture.html
+- Ethan Zuckerman & Andrew McLaughlin, [Introduction to Internet Architecture and Institutions](https://cyber.harvard.edu/digitaldemocracy/internetarchitecture.html) 
 - John Perry Barlow, A Declaration of the Independence of Cyberspace (GIL 56)
 - Lawrence Lessig, _Code v.2.0_, Chapter 7 (Canvas)
 - Julie E. Cohen, _Law for the Platform Economy_, 51 U.C. Davis L. Rev. 133, 191–199 (2017) (Canvas)
