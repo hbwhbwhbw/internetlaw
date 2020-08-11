@@ -1,6 +1,7 @@
 # Internet Law - Fall 2020
 ## About the readings
 A note on the readings: We'll encounter a wide range of legal documents, including not just judicial opinions but also domestic and foreign statutes, administrative rulings, briefs, and policy proposals. We will also be reading book excerpts, as well as legal and social science scholarship. There is a massive body of legal, social, political, and economic research concerning the Internet, and Internet Law is always interdisciplinary to some extent. Perspectives from non-lawyers frequently also influence debates within Internet law itself.
+
 ### Required materials
    1. James Grimmelmann, _Internet Cases & Problems_ (10th ed. 2020) ("GIL")
    2. All other readings will be found on Canvas or at the links provided.
