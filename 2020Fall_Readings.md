@@ -18,16 +18,16 @@ On certain class days, I have supplied optional readings or resources. These are
 #### Readings
 - Ethan Zuckerman & Andrew McLaughlin, Introduction to Internet Architecture and Institutions, https://cyber.harvard.edu/digitaldemocracy/internetarchitecture.html
 - John Perry Barlow, A Declaration of the Independence of Cyberspace (GIL 56)
-- Lawrence Lessig, _Code v.2.0_, Chapter 7 (Canvas) (18 pages)
-- Julie E. Cohen, _Law for the Platform Economy_, 51 U.C. Davis L. Rev. 133, 191–199 (2017) (Canvas) (9 pages)
-- Safiya Noble, _Missed Connections: What Search Engines Say About Women_ (Canvas) (4 pages)
+- Lawrence Lessig, _Code v.2.0_, Chapter 7 (Canvas)
+- Julie E. Cohen, _Law for the Platform Economy_, 51 U.C. Davis L. Rev. 133, 191–199 (2017) (Canvas)
+- Safiya Noble, _Missed Connections: What Search Engines Say About Women_ (Canvas)
 
 **Optional**
+- Jessie Daniels, _Race and Racism in Internet Studies: A Review and Critique_, new media & society 15(5), 695-99, 704-707 (Canvas)
 - Julian Dibbell, [_A Rape in Cyberspace_](https://www.villagevoice.com/2005/10/18/a-rape-in-cyberspace/)
 - Jennifer L. Mnookin, [_Virtual(Ly) Law: The Emergence of Law in LambdaMOO_](https://doi-org.srv-proxy1.library.tamu.edu/10.1111/j.1083-6101.1996.tb00185.x),  2 Journal of Computer-Mediated Communication (1996).
 - Frank Easterbrook, _The Law of the Horse_ (GIL 11)
 - Lawrence Lessig, _What Cyberlaw Might Teach_ (503-513) (Canvas)
-- Jessie Daniels, _Race and Racism in Internet Studies: A Review and Critique_, new media & society 15(5), 695-99, 704-707 (Canvas)
 
 ## Class 2 - August 20, 2020
 ### Geography, Jurisdiction and Sovereignty
