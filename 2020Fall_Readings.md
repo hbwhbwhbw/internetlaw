@@ -100,6 +100,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - USTA v. FCC (Kavanaugh, J., dissenting from rehearing en banc) (Canvas)
 - Jack Balkin, _Free Speech is a Triangle_ (2037-47) (Canvas)
 - Free Press, [_The Racial Digital Divide Persists_](https://www.freepress.net/our-response/expert-analysis/insights-opinions/racial-digital-divide-persists)
+
 #### Optional
 - _Net Neutrality: Last Week Tonight with John Oliver_ (HBO), https://www.youtube.com/watch?v=fpbOEoRrHyU
 - Annemarie Bridy, _Remediating Social Media: A Layer-Conscious Approach_, pp. 194-213 (Canvas)
