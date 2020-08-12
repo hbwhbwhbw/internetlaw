@@ -16,7 +16,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - sign up for a memo week
 
 #### Readings
-- Ethan Zuckerman & Andrew McLaughlin, [Introduction to Internet Architecture and Institutions](https://cyber.harvard.edu/digitaldemocracy/internetarchitecture.html) 
+- Ethan Zuckerman & Andrew McLaughlin, [Introduction to Internet Architecture and Institutions](https://cyber.harvard.edu/digitaldemocracy/internetarchitecture.html)
 - John Perry Barlow, A Declaration of the Independence of Cyberspace (GIL 56)
 - Lawrence Lessig, _Code v.2.0_, Chapter 7 (Canvas)
 - Julie E. Cohen, _Law for the Platform Economy_, 51 U.C. Davis L. Rev. 133, 191–199 (2017) (Canvas)
@@ -202,17 +202,26 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 - Tiffany v. eBay (GIL 389-395)
 - A&M Records v. Napster (GIL 485-490)
 - MGM v. Grokster (GIL 490-494)
-- Google v. Oracle (Canvas)
-
-## Class 19 - October 20, 2020
-### Section 512 and Section 1201
 - Section 512 (GIL 494-500)
 - BMG v. Cox (GIL 506-511)
+
+## Class 19 - October 20, 2020
+### Fair Use; Section 1201
+- Copyright Act [ Fair Use] (GIL 469)
+- Lenz v. Universal Music Corp. (GIL 500-506)
 - Digital Rights Management (GIL 520-531)
 - Kyle Wiens, [We Can't Let John Deere Destroy the Very Idea of Ownership](https://www.wired.com/2015/04/dmca-ownership-john-deere/), Wired (Apr. 21, 2015).
 - Section 1201 petitions
 
 ## Class 20 - October 22, 2020
+### Google v. Oracle
+#### Guest speaker: Annemarie Bridy, Copyright Counsel, Google
+#### Readings
+- Google v. Oracle (Canvas)
+- Listen to Google v. Oracle oral argument (Oct. 7, 2020)
+- Watch Pamela Samuelson, [_What's at Stake in the Oracle v. Google Copyright Case?_](https://www.youtube.com/watch?v=GER6IBN8izs)
+
+## Class 21 - October 27, 2020
 ### Enforcement Mechanisms Old and New
 #### Readings
 - Arista Records v. Does (GIL 276-279)
@@ -223,9 +232,6 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 #### Optional
 - The Cleaners (documentary film)
-
-## Class 21 - October 27, 2020
-
 ## Class 22 - October 29, 2020
 ### Platforms and the Public Sphere
 - Noam Scheiber, [When Scholars Collaborate With Tech Companies, How Reliable Are the Findings?](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html), The New York Times, Jul. 12, 2020
