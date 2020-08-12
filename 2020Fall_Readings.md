@@ -76,23 +76,19 @@ On certain class days, I have supplied optional readings or resources. These are
 - Herrick v. Grindr (Canvas)
 - Hassell v. Bird (Canvas)
 - [The Santa Clara Principles](https://santaclaraprinciples.org/)
-- [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
-- NTIA Petition for Rulemaking to Clarify Provisions of Section 230 of the Communications Act (Canvas)
 - Jack M. Balkin, _Free Speech in the Algorithmic Society: Big Data, Private Governance, and New School Speech Regulation_, 51 U.C.D. L. Rev. 1149, 1172-79 (2017) (Canvas)
 
 ## Class 7 - September 8, 2020
 ### Intermediary Immunity Revisited
 #### Readings
+- [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
+- NTIA Petition for Rulemaking to Clarify Provisions of Section 230 of the Communications Act (Canvas)
 - Glawischnig-Piesczek v. Facebook (Canvas)
 - NetzDG (Canvas)
 - Complaint, _Airbnb v. Schneiderman_ (Canvas)
-- Daphne Keller, [_Build Your Own Intermediary Liability Law_](https://balkin.blogspot.com/2019/06/build-your-own-intermediary-liability.html)
+- Daphne Keller, [Build Your Own Intermediary Liability Law](https://balkin.blogspot.com/2019/06/build-your-own-intermediary-liability.html)
 - Danielle Citron and Benjamin Wittes, _The Internet Will Not Break_, pp. 411-423 (Canvas)
 - Jamila Jefferson-Jones, _Shut Out of Airbnb_ (Canvas)
-- Hawley Bill - Ending Support for Internet Censorship Act, https://www.hawley.senate.gov/sites/default/files/2019-06/Ending-Support-Internet-Censorship-Act-Bill-Text.pdf
-- Gosar Bill - Stop the Censorship Act
-https://www.congress.gov/bill/116th-congress/house-bill/4027/text
-- EARN It Act https://www.congress.gov/bill/116th-congress/senate-bill/3398/text
 
 ## Class 8 - September 10, 2020
 ### Net Neutrality
@@ -103,6 +99,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Materials on Net Neutrality (GIL 648-670)
 - USTA v. FCC (Kavanaugh, J., dissenting from rehearing en banc) (Canvas)
 - Jack Balkin, _Free Speech is a Triangle_ (2037-47) (Canvas)
+- Free Press, [_The Racial Digital Divide Persists_](https://www.freepress.net/our-response/expert-analysis/insights-opinions/racial-digital-divide-persists)
 #### Optional
 - _Net Neutrality: Last Week Tonight with John Oliver_ (HBO), https://www.youtube.com/watch?v=fpbOEoRrHyU
 - Annemarie Bridy, _Remediating Social Media: A Layer-Conscious Approach_, pp. 194-213 (Canvas)
@@ -131,6 +128,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Michael H. Keller & Gabriel J.X. Dance, _The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?_, The New York Times, Sept. 28, 2019, [https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html]
 - ABA Formal Opinion 477 (Canvas)
 - Doe v. Individuals, Whose True Names Are Unknown (GIL 271-276)
+- Amelia Nierenberg, [Signal Downloads Are Way Up Since the Protests Began](https://www.nytimes.com/2020/06/11/style/signal-messaging-app-encryption-protests.html), N.Y. Times (June 11, 2020)
 
 ## Class 11 - September 22, 2020
 ### Computer Fraud & Abuse Act
@@ -160,13 +158,13 @@ https://www.congress.gov/bill/116th-congress/house-bill/4027/text
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
 - [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
 - Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
-- Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), The New York Times, Jan. 18, 2020.
+- Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
 - Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas)
 
 ## Class 14 - October 1, 2020
 ###  Privacy
-- Invasion of Privacy, Gawker Media v. Bollea (GIL 158-164)
-- False light, Jones v. Dirty World (GIL 205-215)
+- Gawker Media v. Bollea (GIL 158-164)
+- Jones v. Dirty World (GIL 205-215)
 - D.K.W. v. Source for PublicData.com, LP, 526 S.W.3d 619 (Tex. App.--Dallas 2017, pet. denied (Canvas)
 - Keri Blakinger, [Newsrooms Rethink a Crime Reporting Staple: The Mugshot](https://www.themarshallproject.org/2020/02/11/newsrooms-rethink-a-crime-reporting-staple-the-mugshot), The Marshall Project (Feb. 11, 2020).
 - Sarah Esther Lageson, [Online Criminal Records Trap Americans in a Purgatory of Digital Punishment](https://slate.com/technology/2020/06/criminal-justice-records-online-digital-punishment.html), Slate Magazine (Jun. 24, 2020).
