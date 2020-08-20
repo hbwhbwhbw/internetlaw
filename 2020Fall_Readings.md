@@ -57,8 +57,8 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 4 - August 27, 2020
 ### Harmful Speech I
 #### Readings
-- _Whitney v. California_ (Brandeis, J., dissenting) (Canvas)
-- _Brandenburg v. Ohio_ (Canvas)
+- [_Whitney v. California_](https://hbwhbwhbw.github.io/internetlaw/Whitney) (Brandeis, J., concurring)
+- [_Brandenburg v. Ohio_](https://hbwhbwhbw.github.io/internetlaw/Brandenburg) (Canvas)
 - Danielle Keats Citron, _Cyber Civil Rights_, 89 B.U. L. Rev. 61, 61-81 (2009) (Canvas)
 - Facebook Hard Questions Blog, [Who Should Decide What is Hate Speech in an Online Global Community?](https://newsroom.fb.com/news/2017/06/hard-questions-hate-speech/)
 - _United States v. Yassin_ (W.D. Mo. 2017) (Canvas)
