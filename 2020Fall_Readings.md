@@ -44,12 +44,13 @@ On certain class days, I have supplied optional readings or resources. These are
 ### The First Amendment & Platforms as Forums
 #### Readings
 - [_Marsh v. Alabama_](https://hbwhbwhbw.github.io/internetlaw/MarshvAlabama)
-- [_PruneYard Center v. Robbins_](https://hbwhbwhbw.github.io/internetlaw/Pruneyard) 
+- [_PruneYard Center v. Robins_](https://hbwhbwhbw.github.io/internetlaw/Pruneyard)
+- [_Manhattan Community Access Corp v. Halleck_](https://hbwhbwhbw.github.io/internetlaw/MCACvHalleck)
 - _Packingham_, _Knight Institute v. Trump_ & notes (GIL 122-126)
 - _Cyber Promotions_ & _Zhang v. Baidu_ (GIL 594-599)
-- _Prager University v. Google_ (N.D. Cal. 2018) (Canvas)
+- [_Prager University v. Google_](https://hbwhbwhbw.github.io/internetlaw/Prager) (9th Cir. 2020)
 - The 1% Visit El Barrio, https://www.youtube.com/watch?v=QEbMTGEQ1xc
-- _Manhattan Community Access Corp v. Halleck_ (2019) (Canvas)
+
 
 ## Class 4 - August 27, 2020
 ### Harmful Speech I
