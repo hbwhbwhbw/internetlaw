@@ -241,6 +241,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 #### Optional
 - The Cleaners (documentary film)
+
 ## Class 22 - October 29, 2020
 ### Platforms and the Public Sphere
 #### Readings
