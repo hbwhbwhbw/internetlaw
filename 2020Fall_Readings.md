@@ -74,6 +74,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 ## Class 6 - September 3, 2020
 ### Intermediary Liability and Immunity: Section 230
+#### Readings
 - Section 230 (GIL 197)
 - Zeran v. AOL (GIL 198-205)
 - Herrick v. Grindr (Canvas)
@@ -158,6 +159,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 ## Class 13 - September 29, 2020
 ### Law Enforcement & Government Surveillance II
+#### Readings
 - Blanchard v. Memphis (Canvas)
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
 - [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
@@ -167,6 +169,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 ## Class 14 - October 1, 2020
 ###  Privacy
+#### Readings
 - Gawker Media v. Bollea (GIL 158-164)
 - Jones v. Dirty World (GIL 205-215)
 - D.K.W. v. Source for PublicData.com, LP, 526 S.W.3d 619 (Tex. App.--Dallas 2017, pet. denied (Canvas)
@@ -175,6 +178,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 ## Class 15 - October 6, 2020
 ### Consumer Privacy
+#### Readings
 - Alessandro Acquisti, Laura Brandimarte & George Loewenstein, _Privacy and Human Behavior in the Age of Information_, 347 Science 509 (2015) (Canvas)
 - Amazon privacy notice (Canvas)
 - In re Google Assistant Privacy Litigation (Canvas)
@@ -183,6 +187,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 ## Class 16 - October 8, 2020
 ### The FTC's Privacy and Security Regulation
+#### Readings
   - Daniel J. Solove & Woodrow Hartzog, _The FTC and the New
 Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
   - Accusearch (Canvas)
@@ -192,6 +197,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 ## Class 17 - October 13, 2020
 ### The GDPR and the CCPA
+#### Readings
 - GDPR materials (319-332)
 - Google v. CNIL (Canvas)
 - Chander, Kaminski & McGeveran, _Catalyzing Privacy Law_ (Canvas)
@@ -209,6 +215,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 ## Class 19 - October 20, 2020
 ### Fair Use; Section 1201
+#### Readings
 - Copyright Act [ Fair Use] (GIL 469)
 - Lenz v. Universal Music Corp. (GIL 500-506)
 - Digital Rights Management (GIL 520-531)
@@ -236,6 +243,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 - The Cleaners (documentary film)
 ## Class 22 - October 29, 2020
 ### Platforms and the Public Sphere
+#### Readings
 - Noam Scheiber, [When Scholars Collaborate With Tech Companies, How Reliable Are the Findings?](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html), The New York Times, Jul. 12, 2020
 - _Sandvig v. Sessions_ (Canvas)
 - _Twitter v. Barr_ (Canvas)
@@ -244,6 +252,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 ## Class 23 - November 3, 2020
 ### Labor and Employment
+#### Readings
 - Uber v. Heller (Canvas)
 - AB5 (Canvas)
 - Uber, _Working Together_ (Canvas)
@@ -255,6 +264,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 
 ## Class 24 - November 5, 2020
 ### Antitrust, Dominance, and Power
+#### Readings
 - _Meyer v. Uber_ & _Cullinane v. Uber_ (GIL 340-348)
 - Note on Antitrust Law and Economics and _U.S. v. Microsoft_ (GIL 631-641)
 - Adrianne Jeffries & Leon Yin, [Google’s Top Search Result? Surprise! It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors), The Markup (Jul. 28, 2020).
