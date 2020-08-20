@@ -43,8 +43,8 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 3 - August 25, 2020
 ### The First Amendment & Platforms as Forums
 #### Readings
-- _Marsh v. Alabama_ (Canvas)
-- _PruneYard Center v. Robbins_ (Canvas)
+- [_Marsh v. Alabama_](https://hbwhbwhbw.github.io/internetlaw/MarshvAlabama)
+- [_PruneYard Center v. Robbins_](https://hbwhbwhbw.github.io/internetlaw/Pruneyard) 
 - _Packingham_, _Knight Institute v. Trump_ & notes (GIL 122-126)
 - _Cyber Promotions_ & _Zhang v. Baidu_ (GIL 594-599)
 - _Prager University v. Google_ (N.D. Cal. 2018) (Canvas)
