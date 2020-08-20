@@ -106,7 +106,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Free Press, [_The Racial Digital Divide Persists_](https://www.freepress.net/our-response/expert-analysis/insights-opinions/racial-digital-divide-persists)
 
 #### Optional
-- _Net Neutrality: Last Week Tonight with John Oliver_ (HBO), https://www.youtube.com/watch?v=fpbOEoRrHyU
+- [_Net Neutrality: Last Week Tonight with John Oliver_ (HBO)](https://www.youtube.com/watch?v=fpbOEoRrHyU)
 - Annemarie Bridy, _Remediating Social Media: A Layer-Conscious Approach_, pp. 194-213 (Canvas)
 
 ## Class 9 - September 15, 2020
@@ -121,7 +121,7 @@ On certain class days, I have supplied optional readings or resources. These are
 
 #### Optional:
 - The Great Hack (Netflix)
-- Fresh Air, Christopher Wylie (https://www.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency)
+- [Fresh Air, Christopher Wylie](https://www.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency)
 
 ## Class 10 - September 17, 2020
 ### Cryptography and Anonymity
@@ -130,7 +130,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Note on Cryptography (GIL 39-44)
 - Bland v. Roberts (GIL 135-137)
 - Bernstein v. U.S. Department of Justice (GIL 138-143)
-- Michael H. Keller & Gabriel J.X. Dance, _The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?_, The New York Times, Sept. 28, 2019, [https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html]
+- [Michael H. Keller & Gabriel J.X. Dance, _The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?_, The New York Times, Sept. 28, 2019](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html)
 - ABA Formal Opinion 477 (Canvas)
 - Doe v. Individuals, Whose True Names Are Unknown (GIL 271-276)
 - Amelia Nierenberg, [Signal Downloads Are Way Up Since the Protests Began](https://www.nytimes.com/2020/06/11/style/signal-messaging-app-encryption-protests.html), N.Y. Times (June 11, 2020)
