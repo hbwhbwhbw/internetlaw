@@ -49,7 +49,9 @@ On certain class days, I have supplied optional readings or resources. These are
 - _Packingham_, _Knight Institute v. Trump_ & notes (GIL 122-126)
 - _Cyber Promotions_ & _Zhang v. Baidu_ (GIL 594-599)
 - [_Prager University v. Google_](https://hbwhbwhbw.github.io/internetlaw/Prager) (9th Cir. 2020)
-- The 1% Visit El Barrio, https://www.youtube.com/watch?v=QEbMTGEQ1xc
+
+**Optional**
+- [The 1% Visit El Barrio](https://www.youtube.com/watch?v=QEbMTGEQ1xc)
 
 
 ## Class 4 - August 27, 2020
