@@ -38,11 +38,11 @@ On certain class days, I have supplied optional readings or resources. These are
 - _Clemens v. McNamee_, 615 F.3d 374 (5th Cir. 2010) (Canvas)
 - _Ayyadurai v. Floor64, Inc._ (GIL 103-106)
 - _Equustek I, II, & III_ (GIL 81-89)
-- Materials on the Commerce Clause, Preemption and the Dormant Commerce Clause (all of GIL 2.C.3)
 
 ## Class 3 - August 25, 2020
 ### The First Amendment & Platforms as Forums
 #### Readings
+- Materials on the Commerce Clause, Preemption and the Dormant Commerce Clause (all of GIL 2.C.3)
 - [_Marsh v. Alabama_](https://hbwhbwhbw.github.io/internetlaw/MarshvAlabama)
 - [_PruneYard Center v. Robins_](https://hbwhbwhbw.github.io/internetlaw/Pruneyard)
 - [_Manhattan Community Access Corp v. Halleck_](https://hbwhbwhbw.github.io/internetlaw/MCACvHalleck)
