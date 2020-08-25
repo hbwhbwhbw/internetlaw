@@ -79,6 +79,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Zeran v. AOL (GIL 198-205)
 - Herrick v. Grindr (Canvas)
 - Hassell v. Bird (Canvas)
+- National Association of the Deaf v. Harvard University (Canvas)
 - [The Santa Clara Principles](https://santaclaraprinciples.org/)
 - Jack M. Balkin, _Free Speech in the Algorithmic Society: Big Data, Private Governance, and New School Speech Regulation_, 51 U.C.D. L. Rev. 1149, 1172-79 (2017) (Canvas)
 
