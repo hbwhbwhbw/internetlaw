@@ -96,7 +96,7 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 8 - September 10, 2020
 ### Net Neutrality
 #### Readings
-- _Miami Herald v. Tornillo_ (Canvas)
+- [_Miami Herald v. Tornillo_](https://hbwhbwhbw.github.io/internetlaw/MiamiHerald) (Canvas)
 - [_Red Lion v. FCC_](https://hbwhbwhbw.github.io/internetlaw/RedLion) (Canvas)
 - [_Turner Broadcasting v. FCC_](https://hbwhbwhbw.github.io/internetlaw/TBSvFCC) (Canvas)
 - Materials on Net Neutrality (GIL 648-670)
