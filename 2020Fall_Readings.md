@@ -97,8 +97,8 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Net Neutrality
 #### Readings
 - _Miami Herald v. Tornillo_ (Canvas)
-- _Red Lion v. FCC_ (Canvas)
-- _Turner Broadcasting v. FCC_ (Canvas)
+- [_Red Lion v. FCC_](https://hbwhbwhbw.github.io/internetlaw/RedLion) (Canvas)
+- [_Turner Broadcasting v. FCC_](https://hbwhbwhbw.github.io/internetlaw/TBSvFCC) (Canvas)
 - Materials on Net Neutrality (GIL 648-670)
 - USTA v. FCC (Kavanaugh, J., dissenting from rehearing en banc) (Canvas)
 - Jack Balkin, _Free Speech is a Triangle_ (2037-47) (Canvas)
