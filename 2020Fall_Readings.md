@@ -86,7 +86,6 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Intermediary Immunity Revisited
 #### Readings
 - [Executive Order on Preventing Online Censorship](https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/)
-- NTIA Petition for Rulemaking to Clarify Provisions of Section 230 of the Communications Act (Canvas)
 - Glawischnig-Piesczek v. Facebook (Canvas)
 - NetzDG (Canvas)
 - Complaint, _Airbnb v. Schneiderman_ (Canvas)
