@@ -100,7 +100,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - [_Red Lion v. FCC_](https://hbwhbwhbw.github.io/internetlaw/RedLion) (Canvas)
 - [_Turner Broadcasting v. FCC_](https://hbwhbwhbw.github.io/internetlaw/TBSvFCC) (Canvas)
 - Materials on Net Neutrality (GIL 648-670)
-- USTA v. FCC (Kavanaugh, J., dissenting from rehearing en banc) (Canvas)
+- USTA v. FCC (Kavanaugh, J., dissenting from rehearing en banc - skim Part I of then-Judge, now-Justice Kavanaugh's dissent, and read Part II) (Canvas)
 - Jack Balkin, _Free Speech is a Triangle_ (2037-47) (Canvas)
 - Free Press, [_The Racial Digital Divide Persists_](https://www.freepress.net/our-response/expert-analysis/insights-opinions/racial-digital-divide-persists)
 
