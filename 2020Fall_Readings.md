@@ -114,10 +114,12 @@ On certain class days, I have supplied optional readings or resources. These are
 - _Washington Post v. McManus_ (4th Cir. ) (Canvas)
 - Honest ADS Act (Canvas)
 - Daniel Kreiss & Shannon C. Mcgregor, _The “Arbiters of What Our Voters See”: Facebook and Google’s Struggle with Policy, Process, and Enforcement around Political Advertising_, Political Communication (2019) (Canvas)
-- Deen Freelon et al., _Black Trolls Matter: Racial and Ideological Asymmetries in Social Media Disinformation_ (Canvas)
+- Craig Timberg and Isaac Stanley-Becker, [_Black voters are being targeted in disinformation campaigns, echoing the 2016 Russian playbook_](https://www.washingtonpost.com/technology/2020/08/26/race-divisions-highlighted-disinformation-2016/), Wash. Post (Aug. 26, 2020)
+
 #### Background
 - Scott Shane & Vindu Goel, [_Fake Russian Facebook Accounts Bought $100,000 in Political Ads_](https://www.nytimes.com/2017/09/06/technology/facebook-russian-political-ads.html), N.Y. Times (Sept. 6, 2017)
 - Niam Yaraghi, [_Twitter’s ban on political advertisements hurts our democracy_](https://www.brookings.edu/blog/techtank/2020/01/08/twitters-ban-on-political-advertisements-hurts-our-democracy/), Brookings (Jan. 8, 2020)
+- Deen Freelon et al., _Black Trolls Matter: Racial and Ideological Asymmetries in Social Media Disinformation_ (Canvas)
 
 #### Optional:
 - The Great Hack (Netflix)
