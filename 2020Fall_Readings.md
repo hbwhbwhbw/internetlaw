@@ -129,12 +129,12 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Cryptography and Anonymity
 #### Readings
 - United States v. O’Brien (Canvas)
-- Note on Cryptography (GIL 39-44)
 - Bland v. Roberts (GIL 135-137)
+- Note on Cryptography (GIL 39-44)
 - Bernstein v. U.S. Department of Justice (GIL 138-143)
-- Michael H. Keller & Gabriel J.X. Dance, [_The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?_](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html), N.Y. Times (Sept. 28, 2019)
-- ABA Formal Opinion 477 (Canvas)
 - Doe v. Individuals, Whose True Names Are Unknown (GIL 271-276)
+- Michael H. Keller & Gabriel J.X. Dance, [_The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?_](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html), N.Y. Times (Sept. 28, 2019)
+
 - Amelia Nierenberg, [Signal Downloads Are Way Up Since the Protests Began](https://www.nytimes.com/2020/06/11/style/signal-messaging-app-encryption-protests.html), N.Y. Times (June 11, 2020)
 
 ## Class 11 - September 22, 2020
