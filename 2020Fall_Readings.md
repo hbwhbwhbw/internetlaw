@@ -144,7 +144,7 @@ On certain class days, I have supplied optional readings or resources. These are
  - Computer Misuse Statutes (GIL 358-360)
  - _United States v. Swartz_, Indictment (Canvas)
  - _HiQ v. LinkedIn_ (GIL 371-377)
- - _Sandvig v. Sessions_ (Canvas)
+ - _Sandvig v. Barr_ (Canvas)
  - _CDK Global LLC v. Brnovich_ (Canvas)
 
 ## Class 12 - September 24, 2020
