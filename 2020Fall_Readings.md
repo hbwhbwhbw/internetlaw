@@ -151,14 +151,14 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Law Enforcement & Government Surveillance I
 #### Readings
 - Fourth & Fifth Amendments (GIL 221)
-- Stored Communications Act (Canvas)
 - _Riley v. California_, _United States v. Spencer_ (GIL 225-236)
 - _Alasaad v. Nielsen_ (Canvas)
+- Stored Communications Act (GIL 257-260 [focus on § 2703])
 - _Warshak_ & _Carpenter_ (GIL 237-250)
-- _United States v. Chatrie_, Motion to Suppress (Canvas)
+- _United States v. Chatrie_, Motion to Suppress (Canvas) (read pp. 1-13, 21-24)
 
-#### Optional
-- Joseph Cox, [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) (Jun. 1, 2020)
+
+
 
 ## Class 13 - September 29, 2020
 ### Law Enforcement & Government Surveillance II
@@ -169,6 +169,9 @@ On certain class days, I have supplied optional readings or resources. These are
 - Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
 - Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
 - Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas)
+
+#### Optional
+  - Joseph Cox, [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) (Jun. 1, 2020)
 
 ## Class 14 - October 1, 2020
 ###  Privacy
@@ -251,7 +254,7 @@ Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
 - Noam Scheiber, [When Scholars Collaborate With Tech Companies, How Reliable Are the Findings?](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html), The New York Times, Jul. 12, 2020
 - _Sandvig v. Sessions_ (Canvas)
 - _Twitter v. Barr_ (Canvas)
--  _Wikimedia v. NSA_ (Canvas)
+- _Wikimedia v. NSA_ (Canvas)
 - _Microsoft v. Dep't of Justice_ (Canvas)
 
 ## Class 23 - November 3, 2020
