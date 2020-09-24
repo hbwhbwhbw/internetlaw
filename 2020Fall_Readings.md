@@ -163,7 +163,7 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 13 - September 29, 2020
 ### Law Enforcement & Government Surveillance II
 #### Readings
-- Blanchard v. Memphis (Canvas)
+- Blanchard v. Memphis (Canvas) (read pp. 1-15, 22-29)
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
 - [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
 - Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
