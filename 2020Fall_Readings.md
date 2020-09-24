@@ -165,10 +165,10 @@ On certain class days, I have supplied optional readings or resources. These are
 #### Readings
 - Blanchard v. Memphis (Canvas) (read pp. 1-15, 22-29)
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
+- Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas) (read pp. 1-5)
 - [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
 - Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
 - Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
-- Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas)
 
 #### Optional
   - Joseph Cox, [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) (Jun. 1, 2020)
