@@ -155,15 +155,11 @@ On certain class days, I have supplied optional readings or resources. These are
 - _Alasaad v. Nielsen_ (Canvas)
 - Stored Communications Act (GIL 257-260 [focus on § 2703])
 - _Warshak_ & _Carpenter_ (GIL 237-250)
-- _United States v. Chatrie_, Motion to Suppress (Canvas) (read pp. 1-13, 21-24)
-
-
-
 
 ## Class 13 - September 29, 2020
 ### Law Enforcement & Government Surveillance II
 #### Readings
-- Blanchard v. Memphis (Canvas) (read pp. 1-15, 22-29)
+- _United States v. Chatrie_, Motion to Suppress (Canvas) (read pp. 1-13, 21-24)
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
 - Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas) (read pp. 1-5)
 - [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
@@ -171,6 +167,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
 
 #### Optional
+  - Blanchard v. Memphis (Canvas) (read pp. 1-15, 22-29)
   - Joseph Cox, [How to Protest Without Sacrificing Your Digital Privacy](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest) (Jun. 1, 2020)
 
 ## Class 14 - October 1, 2020
