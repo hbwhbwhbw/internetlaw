@@ -162,9 +162,6 @@ On certain class days, I have supplied optional readings or resources. These are
 - _United States v. Chatrie_, Motion to Suppress (Canvas) (read pp. 1-13, 21-24)
 - Affidavit in Support of the Complaint in the matter of Lore Elisabeth Blumenthal (Canvas)
 - Desmond Upton Patton et al., _Stop and Frisk Online: Theorizing Everyday Racism in Digital Policing in the Use of Social Media for Identification of Criminal Conduct and Associations_ (Canvas) (read pp. 1-5)
-- [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
-- Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
-- Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
 
 #### Optional
   - Blanchard v. Memphis (Canvas) (read pp. 1-15, 22-29)
@@ -173,8 +170,10 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 14 - October 1, 2020
 ###  Privacy
 #### Readings
+- [Police Used Smart Streetlight Footage to Investigate Protesters](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), Voice of San Diego (Jun. 29, 2020).
+- Sam Biddle, [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/), The Intercept (Jul. 9, 2020).
+- Kashmir Hill, [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html), N.Y. Times (Jan. 18, 2020).
 - Gawker Media v. Bollea (GIL 158-164)
-- Jones v. Dirty World (GIL 205-215)
 - D.K.W. v. Source for PublicData.com, LP, 526 S.W.3d 619 (Tex. App.--Dallas 2017, pet. denied (Canvas)
 - Keri Blakinger, [Newsrooms Rethink a Crime Reporting Staple: The Mugshot](https://www.themarshallproject.org/2020/02/11/newsrooms-rethink-a-crime-reporting-staple-the-mugshot), The Marshall Project (Feb. 11, 2020).
 - Sarah Esther Lageson, [Online Criminal Records Trap Americans in a Purgatory of Digital Punishment](https://slate.com/technology/2020/06/criminal-justice-records-online-digital-punishment.html), Slate Magazine (Jun. 24, 2020).
@@ -182,17 +181,14 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 15 - October 6, 2020
 ### Consumer Privacy
 #### Readings
-- Alessandro Acquisti, Laura Brandimarte & George Loewenstein, _Privacy and Human Behavior in the Age of Information_, 347 Science 509 (2015) (Canvas)
-- Amazon privacy notice (Canvas)
-- In re Google Assistant Privacy Litigation (Canvas)
+- In re Doubleclick (GIL 286-292)
 - Eichenberger v. ESPN (GIL 292-296)
 - ACA Connects v. Frey (Canvas)
 
 ## Class 16 - October 8, 2020
 ### The FTC's Privacy and Security Regulation
 #### Readings
-  - Daniel J. Solove & Woodrow Hartzog, _The FTC and the New
-Common Law of Privacy_, 114 Colum. L. Rev. 583 (2014) (Canvas)
+ - Amazon privacy notice (Canvas)
   - Accusearch (Canvas)
   - Wyndham (Canvas)
   - United States v. Facebook, Complaint (Canvas)
