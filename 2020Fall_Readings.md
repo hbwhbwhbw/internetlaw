@@ -188,10 +188,8 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 16 - October 8, 2020
 ### The FTC's Privacy and Security Regulation
 #### Readings
- - Amazon privacy notice (Canvas)
-  - Accusearch (Canvas)
-  - Wyndham (Canvas)
-  - United States v. Facebook, Complaint (Canvas)
+  - FTC v. Accusearch (Canvas (skim part B, on Immunity under the CDA))
+  - United States v. Facebook, Complaint (Canvas (pp. 1-42))
   - In re Snapchat (GIL 304-310)
 
 ## Class 17 - October 13, 2020
