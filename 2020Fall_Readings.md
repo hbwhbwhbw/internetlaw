@@ -196,10 +196,9 @@ On certain class days, I have supplied optional readings or resources. These are
 ### The GDPR and the CCPA
 #### Readings
 - GDPR materials (319-332)
-- Google v. CNIL (Canvas)
-- Chander, Kaminski & McGeveran, _Catalyzing Privacy Law_ (Canvas)
 - California Consumer Privacy Act (GIL 310-317)
-- _Schrems_ (Canvas)
+- Google v. CNIL (Canvas)
+- Chander, Kaminski & McGeveran, _Catalyzing Privacy Law_ (Canvas (Part II))
 
 ## Class 18 - October 15, 2020
 ### Trademark and Copyright
@@ -217,7 +216,7 @@ On certain class days, I have supplied optional readings or resources. These are
 - Lenz v. Universal Music Corp. (GIL 500-506)
 - Digital Rights Management (GIL 520-531)
 - Kyle Wiens, [We Can't Let John Deere Destroy the Very Idea of Ownership](https://www.wired.com/2015/04/dmca-ownership-john-deere/), Wired (Apr. 21, 2015).
-- Section 1201 petitions
+- Authors Guild v. HathiTrust, 755 F.3d 87 (2d Cir. 2014) (Canvas)
 
 ## Class 20 - October 22, 2020
 ### Google v. Oracle
