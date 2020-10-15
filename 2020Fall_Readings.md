@@ -214,9 +214,9 @@ On certain class days, I have supplied optional readings or resources. These are
 #### Readings
 - Copyright Act [ Fair Use] (GIL 469)
 - Lenz v. Universal Music Corp. (GIL 500-506)
+- Authors Guild v. HathiTrust, 755 F.3d 87 (2d Cir. 2014) (Canvas)
 - Digital Rights Management (GIL 520-531)
 - Kyle Wiens, [We Can't Let John Deere Destroy the Very Idea of Ownership](https://www.wired.com/2015/04/dmca-ownership-john-deere/), Wired (Apr. 21, 2015).
-- Authors Guild v. HathiTrust, 755 F.3d 87 (2d Cir. 2014) (Canvas)
 
 ## Class 20 - October 22, 2020
 ### Google v. Oracle
