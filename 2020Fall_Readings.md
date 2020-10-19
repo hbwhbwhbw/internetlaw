@@ -222,8 +222,10 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Google v. Oracle
 #### Guest speaker: Annemarie Bridy, Copyright Counsel, Google
 #### Readings
-- Google v. Oracle (Canvas)
-- Listen to Google v. Oracle oral argument (Oct. 7, 2020)
+- Oracle v. Google (GIL 422-429)
+- Google v. Oracle petition for certiorari (Canvas)
+- Listen to [Google v. Oracle oral argument](https://www.c-span.org/video/?469263-1/google-v-oracle-america-oral-argument#:~:text=Oracle%20America%20Oral%20Argument&text=Oracle%20America%2C%20a%20case%20on,new%20code%20in%20the%20process.) (Oct. 7, 2020)
+#### Optional
 - Watch Pamela Samuelson, [_What's at Stake in the Oracle v. Google Copyright Case?_](https://www.youtube.com/watch?v=GER6IBN8izs)
 
 ## Class 21 - October 27, 2020
