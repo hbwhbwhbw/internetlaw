@@ -233,9 +233,9 @@ On certain class days, I have supplied optional readings or resources. These are
 #### Readings
 - Arista Records v. Does (GIL 276-279)
 - Materials on ContentID (GIL 512-519)
-- Sarah Roberts, _Behind the Screen_ (Canvas) (excerpt)
 - Anna Chung, [_How Automated Tools Discriminate Against Black Language_](https://onezero.medium.com/how-automated-tools-discriminate-against-black-language-2ac8eab8d6db), Medium (Feb. 28, 2019)
-- Hannah Bloch-Wehba, _Automation in Moderation_ (Canvas)
+- Hannah Bloch-Wehba, _Automation in Moderation_ (Canvas) (read pp. 13-25)
+- Maayan Perel; Niva Elkin-Koren, _Accountability in Algorithmic Copyright Enforcement_ (Canvas) (read pp. 475-488)
 
 #### Optional
 - The Cleaners (documentary film)
