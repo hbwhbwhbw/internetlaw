@@ -244,9 +244,8 @@ On certain class days, I have supplied optional readings or resources. These are
 ### Platforms and the Public Sphere
 #### Readings
 - Noam Scheiber, [When Scholars Collaborate With Tech Companies, How Reliable Are the Findings?](https://www.nytimes.com/2020/07/12/business/economy/uber-lyft-drivers-wages.html), The New York Times, Jul. 12, 2020
-- _Sandvig v. Sessions_ (Canvas)
-- _Twitter v. Barr_ (Canvas)
-- _Wikimedia v. NSA_ (Canvas)
+- Jeff Horwitz, [Facebook Seeks Shutdown of NYU Research Project Into Political Ad Targeting](https://www.wsj.com/articles/facebook-seeks-shutdown-of-nyu-research-project-into-political-ad-targeting-11603488533) (Canvas)
+- _Twitter v. Sessions_ (Canvas)
 - _Microsoft v. Dep't of Justice_ (Canvas)
 
 ## Class 23 - November 3, 2020
