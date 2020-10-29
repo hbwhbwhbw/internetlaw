@@ -251,14 +251,11 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 23 - November 3, 2020
 ### Labor and Employment
 #### Readings
-- Uber v. Heller (Canvas)
-- AB5 (Canvas)
-- Uber, _Working Together_ (Canvas)
-- _What would Uber and Lyft owe to the State Unemployment Insurance Fund?_ (Canvas)
-- [Did Uber Just Enable Discrimination by Destination?](https://www.bloomberg.com/news/articles/2019-12-11/the-discrimination-risk-in-uber-s-new-driver-rule), Bloomberg.com, Dec. 11, 2019.
-- Kate Conger & Noam Scheiber, [The Great Google Revolt](https://www.nytimes.com/interactive/2020/02/18/magazine/google-revolt.html), The New York Times, Feb. 19, 2020.
+- People v. Uber Technologies, 2020 WL 6193994 (Canvas)
 - Ehling v. Monmouth-Ocean Hospital Service Corp. (GIL 261-265)
 - N.L.R.B. v. Pier Sixty (Canvas)
+- [Did Uber Just Enable Discrimination by Destination?](https://www.bloomberg.com/news/articles/2019-12-11/the-discrimination-risk-in-uber-s-new-driver-rule), Bloomberg.com, Dec. 11, 2019.
+- Kate Conger & Noam Scheiber, [The Great Google Revolt](https://www.nytimes.com/interactive/2020/02/18/magazine/google-revolt.html), The New York Times, Feb. 19, 2020.
 
 ## Class 24 - November 5, 2020
 ### Antitrust, Dominance, and Power
