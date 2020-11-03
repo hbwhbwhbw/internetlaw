@@ -260,8 +260,9 @@ On certain class days, I have supplied optional readings or resources. These are
 ## Class 24 - November 5, 2020
 ### Antitrust, Dominance, and Power
 #### Readings
-- _Meyer v. Uber_ & _Cullinane v. Uber_ (GIL 340-348)
 - Note on Antitrust Law and Economics and _U.S. v. Microsoft_ (GIL 631-641)
 - Adrianne Jeffries & Leon Yin, [Google’s Top Search Result? Surprise! It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors), The Markup (Jul. 28, 2020).
-- _Clearing Up Misconceptions About Google's Ad Tech Business_ (Canvas)
-- Roadmap for a Case Against Google (Canvas)
+- One (or more) of the following podcasts:
+  - Cato, [The Antitrust Case Against Google](https://www.cato.org/multimedia/cato-daily-podcast/antitrust-case-against-google)
+  - Brookings, [What’s behind the US Justice Department’s antitrust case against Google?](brookings.edu/podcast-episode/whats-behind-the-us-justice-departments-antitrust-case-against-google/)
+  - Marketplace, [The antitrust case against Google](https://podcasts.apple.com/us/podcast/the-antitrust-case-against-google/id201853034?i=1000495462176)
